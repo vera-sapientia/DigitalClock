@@ -1,5 +1,5 @@
 # DigitalClock
-A Digital Clock made with python & CustomTkinter based UI
+A Digital Clock made with python & CustomTkinter based UI 
 
 
 
